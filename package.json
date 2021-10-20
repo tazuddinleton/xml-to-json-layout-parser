@@ -5,7 +5,7 @@
   "description": "Generates dac6 config from json data",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./src/app.js"
   },
   "author": "",
   "license": "ISC",
