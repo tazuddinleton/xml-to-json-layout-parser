@@ -1,0 +1,1163 @@
+{
+    "dac6": {
+        "key": "DAC6",
+        "layout": {
+            "base": "dac6",
+            "rows": [
+                {
+                    "key": "dac6_cc_s_a",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 0
+                },
+                {
+                    "key": "dac6_cc_s_a",
+                    "prop": "section",
+                    "hasDynamicRows": true,
+                    "dynamicRow": {
+                        "key": "dac6_cc_s_a_d1",
+                        "nr": 1,
+                        "prop": "domestic-aspect",
+                        "rows": [
+                            {
+                                "key": "directive-comparison"
+                            },
+                            {
+                                "key": "additional-information"
+                            },
+                            {
+                                "key": "law-effective-date"
+                            },
+                            {
+                                "key": "directive-comparison_1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "key": "dac6_cc_s_b",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 12
+                },
+                {
+                    "key": "dac6_cc_s_b",
+                    "prop": "section",
+                    "rows": [
+                        {
+                            "key": "dac6_cc_s_b_1",
+                            "prop": "section",
+                            "nr": 23
+                        },
+                        {
+                            "key": "dac6_cc_s_b_1",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_1_d1",
+                                "nr": 24,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_2",
+                            "prop": "section",
+                            "nr": 25
+                        },
+                        {
+                            "key": "dac6_cc_s_b_2",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_2_d1",
+                                "nr": 26,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_3",
+                            "prop": "section",
+                            "nr": 27
+                        },
+                        {
+                            "key": "dac6_cc_s_b_3",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_3_d1",
+                                "nr": 28,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    },
+                                    {
+                                        "key": "directive-comparison_2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_4",
+                            "prop": "section",
+                            "nr": 29
+                        },
+                        {
+                            "key": "dac6_cc_s_b_4",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_4_d1",
+                                "nr": 30,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_5",
+                            "prop": "section",
+                            "nr": 31
+                        },
+                        {
+                            "key": "dac6_cc_s_b_5",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_5_d1",
+                                "nr": 32,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_6",
+                            "prop": "section",
+                            "nr": 33
+                        },
+                        {
+                            "key": "dac6_cc_s_b_6",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_6_d1",
+                                "nr": 34,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_7",
+                            "prop": "section",
+                            "nr": 35
+                        },
+                        {
+                            "key": "dac6_cc_s_b_7",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_7_d1",
+                                "nr": 36,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_b_8",
+                            "prop": "section",
+                            "nr": 37
+                        },
+                        {
+                            "key": "dac6_cc_s_b_8",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_b_8_d1",
+                                "nr": 38,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "additional-information"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "key": "dac6_cc_s_c",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 49
+                },
+                {
+                    "key": "dac6_cc_s_c",
+                    "prop": "section",
+                    "hasDynamicRows": true,
+                    "dynamicRow": {
+                        "key": "dac6_cc_s_c_d1",
+                        "nr": 50,
+                        "prop": "domestic-aspect",
+                        "rows": [
+                            {
+                                "key": "directive-comparison"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "key": "dac6_cc_s_d",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 61
+                },
+                {
+                    "key": "dac6_cc_s_d",
+                    "prop": "section",
+                    "rows": [
+                        {
+                            "key": "dac6_cc_s_d_1",
+                            "prop": "section",
+                            "nr": 72
+                        },
+                        {
+                            "key": "dac6_cc_s_d_1",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_d_1_1",
+                                    "prop": "section",
+                                    "nr": 83
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_1_1",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_1_1_d1",
+                                        "nr": 84,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_1_2",
+                                    "prop": "section",
+                                    "nr": 85
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_1_2",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_1_2_d1",
+                                        "nr": 86,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_1_3",
+                                    "prop": "section",
+                                    "nr": 87
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_1_3",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_1_3_d1",
+                                        "nr": 88,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_d_2",
+                            "prop": "section",
+                            "nr": 89
+                        },
+                        {
+                            "key": "dac6_cc_s_d_2",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_d_2_1",
+                                    "prop": "section",
+                                    "nr": 100
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_2_1",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_2_1_d1",
+                                        "nr": 101,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_2_2",
+                                    "prop": "section",
+                                    "nr": 102
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_2_2",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_2_2_d1",
+                                        "nr": 103,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_2_3",
+                                    "prop": "section",
+                                    "nr": 104
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_2_3",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_2_3_d1",
+                                        "nr": 105,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_d_3",
+                            "prop": "section",
+                            "nr": 106
+                        },
+                        {
+                            "key": "dac6_cc_s_d_3",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_d_3_1",
+                                    "prop": "section",
+                                    "nr": 117
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_1",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_3_1_d1",
+                                        "nr": 118,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_2",
+                                    "prop": "section",
+                                    "nr": 119
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_2",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_3_2_d1",
+                                        "nr": 120,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_3",
+                                    "prop": "section",
+                                    "nr": 121
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_3",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_3_3_d1",
+                                        "nr": 122,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_4",
+                                    "prop": "section",
+                                    "nr": 123
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_3_4",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_3_4_d1",
+                                        "nr": 124,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_d_4",
+                            "prop": "section",
+                            "nr": 125
+                        },
+                        {
+                            "key": "dac6_cc_s_d_4",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_d_4_1",
+                                    "prop": "section",
+                                    "nr": 136
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_4_1",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_4_1_d1",
+                                        "nr": 137,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_4_2",
+                                    "prop": "section",
+                                    "nr": 138
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_4_2",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_4_2_d1",
+                                        "nr": 139,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_d_5",
+                            "prop": "section",
+                            "nr": 140
+                        },
+                        {
+                            "key": "dac6_cc_s_d_5",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_d_5_1",
+                                    "prop": "section",
+                                    "nr": 151
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_5_1",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_5_1_d1",
+                                        "nr": 152,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_5_2",
+                                    "prop": "section",
+                                    "nr": 153
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_5_2",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_5_2_d1",
+                                        "nr": 154,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_5_3",
+                                    "prop": "section",
+                                    "nr": 155
+                                },
+                                {
+                                    "key": "dac6_cc_s_d_5_3",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_d_5_3_d1",
+                                        "nr": 156,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_d_6",
+                            "prop": "section",
+                            "nr": 157
+                        },
+                        {
+                            "key": "dac6_cc_s_d_6",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_d_6_d1",
+                                "nr": 158,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "key": "dac6_cc_s_e",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 169
+                },
+                {
+                    "key": "dac6_cc_s_e",
+                    "prop": "section",
+                    "rows": [
+                        {
+                            "key": "dac6_cc_s_e_1",
+                            "prop": "section",
+                            "nr": 180
+                        },
+                        {
+                            "key": "dac6_cc_s_e_1",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_e_1_a",
+                                    "prop": "section",
+                                    "nr": 191
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_a",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_1_1_d1",
+                                        "nr": 192,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "directive-comparison_1"
+                                            },
+                                            {
+                                                "key": "directive-comparison_2"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_b",
+                                    "prop": "section",
+                                    "nr": 193
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_b",
+                                    "prop": "section",
+                                    "rows": [
+                                        {
+                                            "key": "dac6_cc_s_e_1_2_1",
+                                            "prop": "section",
+                                            "nr": 204
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_1_2_1",
+                                            "prop": "section",
+                                            "hasDynamicRows": true,
+                                            "dynamicRow": {
+                                                "key": "dac6_cc_s_e_1_2_1_d1",
+                                                "nr": 205,
+                                                "prop": "domestic-aspect",
+                                                "rows": [
+                                                    {
+                                                        "key": "directive-comparison"
+                                                    },
+                                                    {
+                                                        "key": "directive-comparison_1"
+                                                    },
+                                                    {
+                                                        "key": "directive-comparison_2"
+                                                    },
+                                                    {
+                                                        "key": "additional-information"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_1_2_2",
+                                            "prop": "section",
+                                            "nr": 206
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_1_2_2",
+                                            "prop": "section",
+                                            "hasDynamicRows": true,
+                                            "dynamicRow": {
+                                                "key": "dac6_cc_s_e_1_2_2_d1",
+                                                "nr": 207,
+                                                "prop": "domestic-aspect",
+                                                "rows": [
+                                                    {
+                                                        "key": "directive-comparison"
+                                                    },
+                                                    {
+                                                        "key": "directive-comparison_1"
+                                                    },
+                                                    {
+                                                        "key": "additional-information"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_c",
+                                    "prop": "section",
+                                    "nr": 208
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_c",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_1_3_d1",
+                                        "nr": 209,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "directive-comparison_1"
+                                            },
+                                            {
+                                                "key": "additional-information"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_d",
+                                    "prop": "section",
+                                    "nr": 210
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_d",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_6_1_4_d1",
+                                        "nr": 211,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_e",
+                                    "prop": "section",
+                                    "nr": 212
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_e",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_1_5_d1",
+                                        "nr": 213,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_f",
+                                    "prop": "section",
+                                    "nr": 214
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_1_f",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_1_6_d1",
+                                        "nr": 215,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            },
+                                            {
+                                                "key": "directive-comparison_1"
+                                            },
+                                            {
+                                                "key": "directive-comparison_2"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_e_2",
+                            "prop": "section",
+                            "nr": 216
+                        },
+                        {
+                            "key": "dac6_cc_s_e_2",
+                            "prop": "section",
+                            "rows": [
+                                {
+                                    "key": "dac6_cc_s_e_2_a",
+                                    "prop": "section",
+                                    "nr": 227
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_a",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_2_1_d1",
+                                        "nr": 228,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_b",
+                                    "prop": "section",
+                                    "nr": 229
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_b",
+                                    "prop": "section",
+                                    "rows": [
+                                        {
+                                            "key": "dac6_cc_s_e_6_2_2_1",
+                                            "prop": "section",
+                                            "nr": 240
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_6_2_2_1",
+                                            "prop": "section",
+                                            "hasDynamicRows": true,
+                                            "dynamicRow": {
+                                                "key": "dac6_cc_s_e_2_2_1_d1",
+                                                "nr": 241,
+                                                "prop": "domestic-aspect",
+                                                "rows": [
+                                                    {
+                                                        "key": "directive-comparison"
+                                                    },
+                                                    {
+                                                        "key": "directive-comparison_1"
+                                                    },
+                                                    {
+                                                        "key": "additional-information"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_2_2_2",
+                                            "prop": "section",
+                                            "nr": 242
+                                        },
+                                        {
+                                            "key": "dac6_cc_s_e_2_2_2",
+                                            "prop": "section",
+                                            "hasDynamicRows": true,
+                                            "dynamicRow": {
+                                                "key": "dac6_cc_s_e_2_2_2_d1",
+                                                "nr": 243,
+                                                "prop": "domestic-aspect",
+                                                "rows": [
+                                                    {
+                                                        "key": "directive-comparison"
+                                                    },
+                                                    {
+                                                        "key": "directive-comparison_1"
+                                                    },
+                                                    {
+                                                        "key": "additional-information"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_c",
+                                    "prop": "section",
+                                    "nr": 244
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_c",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_2_3_d1",
+                                        "nr": 245,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_d",
+                                    "prop": "section",
+                                    "nr": 246
+                                },
+                                {
+                                    "key": "dac6_cc_s_e_2_d",
+                                    "prop": "section",
+                                    "hasDynamicRows": true,
+                                    "dynamicRow": {
+                                        "key": "dac6_cc_s_e_2_4_d1",
+                                        "nr": 247,
+                                        "prop": "domestic-aspect",
+                                        "rows": [
+                                            {
+                                                "key": "directive-comparison"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "key": "dac6_cc_s_e_3",
+                            "prop": "section",
+                            "nr": 248
+                        },
+                        {
+                            "key": "dac6_cc_s_e_3",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_e_3_d1",
+                                "nr": 249,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    },
+                                    {
+                                        "key": "additional-information"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "key": "dac6_cc_s_e_4",
+                            "prop": "section",
+                            "nr": 250
+                        },
+                        {
+                            "key": "dac6_cc_s_e_4",
+                            "prop": "section",
+                            "hasDynamicRows": true,
+                            "dynamicRow": {
+                                "key": "dac6_cc_s_e_6_4_d1",
+                                "nr": 251,
+                                "prop": "domestic-aspect",
+                                "rows": [
+                                    {
+                                        "key": "directive-comparison"
+                                    },
+                                    {
+                                        "key": "directive-comparison_1"
+                                    },
+                                    {
+                                        "key": "directive-comparison_2"
+                                    },
+                                    {
+                                        "key": "directive-comparison_3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "key": "dac6_cc_s_f",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 262
+                },
+                {
+                    "key": "dac6_cc_s_f",
+                    "prop": "section",
+                    "hasDynamicRows": true,
+                    "dynamicRow": {
+                        "key": "dac6_cc_s_f_d1",
+                        "nr": 263,
+                        "prop": "domestic-aspect",
+                        "rows": [
+                            {
+                                "key": "directive-comparison"
+                            },
+                            {
+                                "key": "directive-comparison_1"
+                            },
+                            {
+                                "key": "additional-information"
+                            },
+                            {
+                                "key": "directive-comparison_2"
+                            },
+                            {
+                                "key": "directive-comparison_3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "key": "dac6_cc_s_g",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 274
+                },
+                {
+                    "key": "dac6_cc_s_g",
+                    "prop": "section",
+                    "hasDynamicRows": true,
+                    "dynamicRow": {
+                        "key": "dac6_cc_s_g_d1",
+                        "nr": 275,
+                        "prop": "domestic-aspect",
+                        "rows": [
+                            {
+                                "key": "directive-comparison"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "key": "dac6_cc_s_h",
+                    "prop": "section",
+                    "inNavOutline": true,
+                    "nr": 286
+                },
+                {
+                    "key": "dac6_cc_s_h",
+                    "prop": "section",
+                    "hasDynamicRows": true,
+                    "dynamicRow": {
+                        "key": "dac6_cc_s_h_d1",
+                        "nr": 287,
+                        "prop": "domestic-aspect",
+                        "rows": [
+                            {
+                                "key": "latest-developments-references"
+                            },
+                            {
+                                "key": "relevant-cases-decisions"
+                            },
+                            {
+                                "key": "journal-references"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
