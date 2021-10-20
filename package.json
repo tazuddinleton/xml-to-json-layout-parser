@@ -1,0 +1,15 @@
+{
+  "name": "dac6-config-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generates dac6 config from json data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
