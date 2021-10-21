@@ -1,5 +1,5 @@
 import { writeFileSync, readFileSync } from 'fs';
-import {mapSection, addNr} from './lib.js'
+import {mapSection, addNr} from './core.js'
 
 const data = JSON.parse(readFileSync('./input/data.json'));
 if(!data.length){
@@ -13,7 +13,7 @@ let config = {
     key: "DAC6",
     layout: {
       base: "dac6",
-      rows: data.map(mapSection).map(addNr).flat(2)
+      rows: data.filter((v, i) => i > -1).map(mapSection).map(addNr).flat(2)
     }
   }
 }
