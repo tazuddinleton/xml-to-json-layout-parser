@@ -41,13 +41,8 @@ function mapNested(section) {
       }
     });
     return r;
-  } else {
-    if (f && f.length) {
-      let obj = { key: getId(section), prop: 'section' };
-      return [obj, ...mapDomAspect(section)];
-    } else {
-      return [...mapDomAspect(section)];
-    }
+  } else {    
+    return [...mapDomAspect(section)];
   }
 }
 
